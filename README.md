@@ -2,7 +2,6 @@
 - 👀 I’m interested in Network
 - 🌱 I’m currently learning Batch
 - 📩 Contact me at : matteo.hernandez.1507@gmail.com
-- 💻 You can visit my portfolio : https://hernandez-matteo.fr/
 
 
 <!---
